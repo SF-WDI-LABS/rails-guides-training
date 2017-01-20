@@ -15,7 +15,7 @@ Read and follow along with chapters 1-4 of the [Rails getting started guide](htt
 
 1. Create a GitHub repo for your getting started project so it's easy to reference later. Make commits for each step of the tutorial.  
 
-1. As you go through the tutorial, note what each file and command is for. Try answering the following questions:
+1. As you go through the tutorial, note what each file and command is for. In your own works, answer the following questions about Rails directory structure and commands:
   * What are some things the terminal command `rails new blog` does?
   * What does the command `bundle` do?
   * What is `config/routes.rb` for?
