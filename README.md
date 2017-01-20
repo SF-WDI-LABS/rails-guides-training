@@ -15,12 +15,12 @@ Read and follow along with chapters 1-4 of the [Rails getting started guide](htt
 
 1. Create a GitHub repo for your getting started project so it's easy to reference later. Make commits for each step of the tutorial.  
 
-1. As you go through the tutorial, consider the following questions:
-  * What are the guiding principles of Ruby on Rails?
+1. As you go through the tutorial, note what each file and command is for. Try answering the following questions:
   * What are some things the terminal command `rails new blog` does?
   * What does the command `bundle` do?
+  * What is `config/routes.rb` for?
   * What is `app/views/layouts/application.html.erb` doing for the project? 
-  * What is `Gemfile` doing?
+  * What is the `Gemfile` for?
 
 
 ### Dealing with Data
