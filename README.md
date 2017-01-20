@@ -25,7 +25,7 @@ Read and follow along with chapters 1-4 of the [Rails getting started guide](htt
 
 ### Dealing with Data
 
-In the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html), work through chapter 5 up to and including section 5.9. You will have an app that lets you create and read articles -- you can continue if you'd like to and enable update and delete. You should end up with app that lets you create and read articles.  **This is a *long* chapter - set aside about 2 hours**. As you're working through chapter 5:
+In the  [Rails getting started guide](http://guides.rubyonrails.org/getting_started.html), work through chapter 5. You will have an app that lets you create and read articles -- you can continue if you'd like to and enable update and delete. You should end up with app that lets you create and read articles.  **This is a *long* chapter - set aside about 4 hours**. As you're working through chapter 5:
 
 1. In your own words, answer the following questions about the **Model** part of Rails MVC. Reference the [ActiveRecord Rails Guide](http://guides.rubyonrails.org/active_record_basics.html) if you're not sure.
     * What is a "resource"?
